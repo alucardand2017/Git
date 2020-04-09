@@ -1,1 +1,2 @@
 Entendo  HEAD
+Esta linha foi modificada no ramo master
